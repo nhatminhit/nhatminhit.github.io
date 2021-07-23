@@ -82,8 +82,8 @@ h6 {
   }
   
   #top {
-    max-width: 600px;
-    margin-left: 300px;
+    max-width: 500px;
+    margin-left: auto;
     margin-right: auto;
     display: flex;
     padding-top: 1rem;
@@ -92,8 +92,8 @@ h6 {
   }
   
   #topl img{
-    width: 150px;
-    height: 150px;
+    width: 120px;
+    height: 120px;
     background-position: 50% 50%;
   }
   
@@ -114,13 +114,13 @@ h6 {
   }
   #td {
     color: antiquewhite;
-    font-size: 2.0rem;
+    font-size: 1.6rem;
     font-weight: bold;
     font-family: 'Comic Sans MS', sans-serif;
   }
   #td1 {
     color: antiquewhite;
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     font-weight: lighter;
     font-family: 'Comic Sans MS', sans-serif;
   }
