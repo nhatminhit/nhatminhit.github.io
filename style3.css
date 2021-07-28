@@ -124,3 +124,29 @@ h6 {
     font-weight: lighter;
     font-family: 'Comic Sans MS', sans-serif;
   }
+button {
+	display: none;
+}
+@media screen and (max-width: 768px){
+    button{
+		display: block;
+	}
+}
+/*Tablet nhỏ(480 x 640)*/
+@media screen and (max-width: 480px){
+    button{
+		display: block;
+	}
+}
+/*Iphone(480 x 640)*/
+@media screen and (max-width: 320px){
+    button{
+		display: block;
+	}
+}
+/*Smart phone nhỏ*/
+@media screen and (max-width: 240px){
+    button{
+		display: block;
+	}
+}
