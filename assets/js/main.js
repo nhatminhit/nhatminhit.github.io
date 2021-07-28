@@ -97,8 +97,70 @@ const app = {
       path: "./assets/musics/Muisc 10/The Chainsmokers - Closer ft. Halsey (Anki Remix).mp3",
       image: "./assets/musics/Muisc 10/IMG.png",
     },
+    {
+      name: "JUNI (YOU WILL ALWAYS GONNA BE MY LOVE)",
+      singer: "AVIWKILA",
+      path: "./assets/musics/Music 11/Juni.mp3",
+      image: "http://i3.ytimg.com/vi/xpHmDZfg6z4/maxresdefault.jpg",
+    },
   ],
   chillSong: [
+    {
+      name: "Bỏ Em Vào Ba Lô",
+      singer: "Tân Trần & Freak D",
+      path: "https://data25.chiasenhac.com/download2/2176/3/2175613-22b82a49/128/Bo%20Em%20vao%20Balo%20-%20Tan%20Tran_%20Freak%20D.mp3",
+      image:
+        "https://data.chiasenhac.com/data/cover/142/141557.jpg",
+    },
+    {
+      name: "Kém Duyên",
+      singer: "Rum - NIT - Masew",
+      path: "https://data00.chiasenhac.com/downloads/1842/3/1841626-fa2ea2d5/128/Kem%20Duyen%20-%20Rum_%20NIT_%20Masew.mp3",
+      image:
+        "https://data.chiasenhac.com/data/cover/79/78879.jpg",
+    },
+    {
+      name: "Đường Tôi Chở Em Về (Cukak Remix)",
+      singer: "Bùi Trương Linh",
+      path: "https://data25.chiasenhac.com/download2/2176/3/2175841-cbb45f0c/128/Duong%20Toi%20Cho%20Em%20Ve%20Cukak%20Remix_%20-%20buitr.mp3",
+      image:
+        "https://data.chiasenhac.com/data/cover/142/141618.jpg",
+    },
+    {
+      name: "Thất Tình",
+      singer: "Trịnh Đình Quang",
+      path: "https://data22.chiasenhac.com/downloads/1542/3/1541550-9473484c/128/That%20Tinh%20-%20Trinh%20Dinh%20Quang.mp3",
+      image:
+        "https://data.chiasenhac.com/data/artist_avatar/3/2711.jpg",
+    },
+    {
+      name: "Nếu Có Kiếp Sau",
+      singer: "Hương Ly",
+      path: "https://data25.chiasenhac.com/download2/2177/3/2176623-2fcebe0b/128/Neu%20Co%20Kiep%20Sau%20-%20Huong%20Ly.mp3",
+      image:
+        "https://avatar-ex-swe.nixcdn.com/song/share/2021/06/18/4/7/b/9/1623989998810.jpg",
+    },
+    {
+      name: "Sắp 30",
+      singer: "Trịnh Đình Quang",
+      path: "https://data25.chiasenhac.com/download2/2170/3/2169510-17ba0b79/128/Sap%2030%20-%20Trinh%20Dinh%20Quang.mp3",
+      image:
+        "https://data.chiasenhac.com/data/cover/140/139972.jpg",
+    },
+    {
+      name: "Phố Đã Lên Đèn (Cukak Remix)",
+      singer: "Huyền Tâm Môn & Cucak",
+      path: "https://data25.chiasenhac.com/download2/2180/3/2179326-7bb9c33a/128/Pho%20Da%20Len%20Den%20Cukak%20Remix_%20-%20Huyen%20Tam.mp3",
+      image:
+        "https://data.chiasenhac.com/data/cover/143/142622.jpg",
+    },
+    {
+      name: "Quê Tôi Remix",
+      singer: "Thuỳ Chi",
+      path: "https://data25.chiasenhac.com/download2/2182/3/2181629/128/Que%20Toi%20Daz%20Remix_%20-%20Thuy%20Chi.mp3",
+      image:
+        "https://data.chiasenhac.com/data/artist_avatar/1/615.jpg",
+    },
     {
       name: "Ghé Qua",
       singer: "Dick x Tofu x PC",
